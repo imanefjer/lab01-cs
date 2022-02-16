@@ -1,6 +1,6 @@
 ## Course Algorithm 2: UM6P-CS
 
-`Reference Textbook:`
+`Textbook:`
 
 • Goodrich M.T., Tamassia R., Goldwasser M. - Data structures and algorithms in Python-Wiley (2013)
 
